@@ -1,0 +1,6 @@
+<meta>
+	<script src="c.lua" type="client"/>
+	<file src="50masktexture.fx" />
+	
+	<export function="create" type="client" />
+</meta>
